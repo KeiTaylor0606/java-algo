@@ -17,7 +17,6 @@ public class NewmanShanksWilliamsPrime {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		System.out.println(nswp(n));
-
 	}
 
 }
